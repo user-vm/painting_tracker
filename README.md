@@ -1,4 +1,4 @@
-#Painting tracker
+# Painting tracker
 
 Simple image tracking test, using webcam input, and ORB and FLANN.
 
